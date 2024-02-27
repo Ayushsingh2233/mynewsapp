@@ -1,7 +1,7 @@
 # how to get api key 
 
 go to this link and login get a api key and put key to your api  
-https://newsapi.org/account
+https://newsapi.org
 
 
 # Getting Started with Create React App
