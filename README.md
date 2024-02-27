@@ -1,3 +1,9 @@
+# how to get api key 
+
+go to this link and login get a api key and put key to your api  
+https://newsapi.org/account
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
